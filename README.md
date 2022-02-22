@@ -21,4 +21,4 @@ TLDR: I ran the toolchain so you don't have to. :)
 ```yarn install --ignore-optional```
 
 5. Build the app and run the development server  
-```yarn strapi build``` and then ```yarn run dev```
+```yarn run build``` and then ```yarn run develop```
