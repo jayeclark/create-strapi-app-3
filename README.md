@@ -20,5 +20,5 @@ TLDR: I ran the toolchain so you don't have to. :)
 4. Install depedencies (with no optional deps)  
 ```yarn install --ignore-optional```
 
-5. Run the development server  
-```yarn run develop```
+5. Build the app and run the development server  
+```yarn strapi build``` and then ```yarn run dev```
